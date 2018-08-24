@@ -1,0 +1,8 @@
+i2c.c:53:6:I2cMaster_Init	32	static
+i2c.c:104:17:I2Cx_TIMEOUT_UserCallback	32	static
+i2c.c:133:5:Sensors_I2C_WriteRegister	32	static
+i2c.c:157:5:Sensors_I2C_ReadRegister	32	static
+i2c.c:189:15:ST_Sensors_I2C_WriteRegister	32	static
+i2c.c:249:15:ST_Sensors_I2C_ReadRegister	40	static
+i2c.c:403:6:Set_I2C_Retry	16	static
+i2c.c:408:16:Get_I2C_Retry	4	static

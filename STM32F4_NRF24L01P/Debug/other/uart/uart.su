@@ -1,0 +1,15 @@
+uart.c:31:6:uart_init	48	static
+uart.c:95:6:uart_send_byte	16	static
+uart.c:104:6:uart_send_string	16	static
+uart.c:135:6:uart_send_int	32	static
+uart.c:179:6:uart_send_hex8	16	static
+uart.c:206:6:uart_send_hex16	24	static
+uart.c:234:6:uart_send_hex32	24	static
+uart.c:266:17:uart_receive_string	24	static
+uart.c:306:6:P_UART_Receive	16	static
+uart.c:338:6:P_UART_RX_INT	24	static
+uart.c:371:6:USART2_IRQHandler	16	static
+uart.c:386:6:USART3_IRQHandler	16	static
+uart.c:401:6:UART4_IRQHandler	16	static
+uart.c:416:6:UART5_IRQHandler	16	static
+uart.c:431:6:USART6_IRQHandler	16	static

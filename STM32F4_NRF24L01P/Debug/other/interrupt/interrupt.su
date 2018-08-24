@@ -1,0 +1,4 @@
+interrupt.c:25:6:Setup_Interrupt_NRF_IRQ_PIN	32	static
+interrupt.c:61:9:state_of_interrupt	4	static
+interrupt.c:66:6:reset_state_of_interrupt	4	static
+interrupt.c:71:6:EXTI9_5_IRQHandler	8	static

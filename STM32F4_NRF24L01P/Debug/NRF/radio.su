@@ -1,0 +1,5 @@
+radio.c:37:6:radio_send_packet	24	static
+radio.c:47:16:radio_get_status	4	static
+radio.c:52:9:radio_get_pload_byte	16	static
+radio.c:57:6:radio_set_status	16	static
+radio.c:62:6:radio_irq	8	static

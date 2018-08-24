@@ -1,0 +1,9 @@
+core_cm4.h:1535:22:NVIC_SetPriority	16	static
+core_cm4.h:1662:26:SysTick_Config	16	static
+board-st_discovery.c:17:6:board_init	8	static
+board-st_discovery.c:45:6:mdelay	16	static
+board-st_discovery.c:51:6:mdelay_for_setup_motor	16	static
+board-st_discovery.c:57:5:get_tick_count	16	static
+board-st_discovery.c:63:6:TimingDelay_Decrement	4	static
+board-st_discovery.c:71:6:TimeStamp_Increment	4	static
+board-st_discovery.c:76:6:SysTick_Handler	8	static

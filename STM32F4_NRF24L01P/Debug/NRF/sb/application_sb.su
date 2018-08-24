@@ -1,0 +1,2 @@
+application_sb.c:45:6:device_ptx_mode_sb	8	static
+application_sb.c:71:6:device_prx_mode_sb	8	static

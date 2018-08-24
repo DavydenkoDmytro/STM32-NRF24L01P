@@ -1,0 +1,2 @@
+application_esb.c:51:6:device_ptx_mode_esb	8	static
+application_esb.c:88:6:device_prx_mode_esb	8	static

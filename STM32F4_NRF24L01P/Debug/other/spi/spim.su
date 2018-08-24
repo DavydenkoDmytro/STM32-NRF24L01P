@@ -1,0 +1,2 @@
+spim.c:8:6:spim_init	48	static
+spim.c:57:9:hal_nrf_rw	16	static

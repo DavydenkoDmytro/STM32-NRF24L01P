@@ -1,0 +1,2 @@
+gpio.c:44:6:gpio_SetGPIOmode_Out	24	static
+gpio.c:61:6:gpio_PortClockStart	16	static

@@ -1,0 +1,7 @@
+core_cm4.h:1535:22:NVIC_SetPriority	16	static
+core_cm4.h:1662:26:SysTick_Config	16	static
+systick_timer.c:18:6:mdelay_timer	16	static
+systick_timer.c:23:9:get_TimingDelay	4	static
+systick_timer.c:28:6:TimingDelay_Decrement	4	static
+systick_timer.c:34:6:SysTick_Handler	8	static
+systick_timer.c:39:6:SysTick_Ini	8	static
